@@ -104,9 +104,7 @@ main {
 
 .chat {
   position: fixed;
-  right: 0;
-  bottom: 0;
+  right: 10px;
+  bottom: 10px;
   /* malého chatbota na stránce vidíme pořád. Visí vpravo dole, 10px od okrajů */
 }
-
-/*mojepoznamka*/
